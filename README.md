@@ -7,5 +7,5 @@ This is a simple Python program that greets the user.
 1. Make sure you have Python installed.
 2. Run the following command:
 
-   ```bash
-   python hello.py
+   #```bash
+   #python hello.py
